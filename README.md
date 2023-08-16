@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Alejandro Joel Ferrán Pérez </h1>
+<h3 align="center">A passionate full-stack developer from Cuba</h3>
+
+- 🔭 I’m currently freelancing. Feel free to contact me!
+
+- 🌱 I’m currently learning **Nuxt3**
+
+<!-- 👨‍💻 My tech stack, my projects and more are available at [**https://florian-lefebvre.dev**](https://florian-lefebvre.dev) -->
+
+- 📫 How to reach me **oldnavy98@proton.me**
