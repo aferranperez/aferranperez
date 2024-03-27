@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 <!-- 👨‍💻 My tech stack, my projects and more are available at [**https://florian-lefebvre.dev**](https://florian-lefebvre.dev) -->
 
-- 📫 How to reach me **oldnavy98@proton.me**
+- 📫 How to reach me **alejandroferran@proton.me**
